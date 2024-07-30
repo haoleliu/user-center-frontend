@@ -191,7 +191,7 @@ exports[`Login Page should login success 1`] = `
             class="ant-pro-global-header"
           >
             <div
-              class="ant-pro-global-header-logo ant-pro-global-header-logo-mix"
+
             >
               <a>
                 <img
